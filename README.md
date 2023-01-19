@@ -36,7 +36,7 @@ git clone https://github.com/codewithsadee/pod-audio_sreaming-app-landing_page.g
 
 ## Contact
 
-If you want to contact me you can reach me on [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me on kipkiruikenedy@gmail.com.
 
 ## License
 
